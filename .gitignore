@@ -1,5 +1,2 @@
 node_modules
 .idea
-client_web/src/firebase.js
-prod.js
-ecosystem.config.js
