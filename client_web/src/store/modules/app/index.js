@@ -162,7 +162,7 @@ export default {
       R16: {
         scored: 0,
         win: 0,
-        lose: 30
+        lose: 40
       },
       QUA: {
         scored: 0,
@@ -172,12 +172,12 @@ export default {
       SEM: {
         scored: 0,
         win: 0,
-        lose: 100
+        lose: 160
       },
       FIN: {
         scored: 0,
         win: 0,
-        lose: 150
+        lose: 320
       }
     }
   }),
