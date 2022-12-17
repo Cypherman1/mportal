@@ -174,10 +174,15 @@ export default {
         win: 0,
         lose: 160
       },
-      FIN: {
+      THI: {
         scored: 0,
         win: 0,
         lose: 320
+      },
+      FIN: {
+        scored: 0,
+        win: 0,
+        lose: 640
       }
     }
   }),
