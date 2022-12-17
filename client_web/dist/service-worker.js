@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.067396f1777532745014b8dd0ef9c6b3.js"
+  "/precache-manifest.d71c0b63dc8b259ccf278b4dfea2ecc7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "euro2021"});
