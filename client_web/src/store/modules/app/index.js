@@ -28,6 +28,10 @@ export default {
         name: 'Switzerland',
         logo: require('../../../assets/teams/swi.png')
       },
+      alb: {
+        name: 'Albania',
+        logo: require('../../../assets/teams/alb.png')
+      },
       spa: {
         name: 'Spain',
         logo: require('../../../assets/teams/spa.png')
