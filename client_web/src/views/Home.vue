@@ -50,7 +50,7 @@ import MySnackBar from '../components/MySnackBar.vue'
 const calDate = () => {
   const res = []
   let idate
-  const startDate = moment('16/11/2022', 'DD/MM/YYYY')
+  const startDate = moment('14/06/2024', 'DD/MM/YYYY')
   for (let i = 0; i < 100; i++) {
     idate = moment(startDate).add(i, 'day')
     res.push({

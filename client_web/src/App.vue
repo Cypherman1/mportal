@@ -50,12 +50,12 @@
         <router-link to="/" tag="span" style="cursor: pointer">
           <v-layout>
             <v-img
-              class="mt-3"
-              :src="require('./assets/logo.svg')"
+              class="mt-1"
+              :src="require('./assets/newlogo_onDark.png')"
               :max-height="60"
-              :max-width="40"
+              :max-width="120"
             ></v-img>
-            <div class="mt-4 ml-2">Woldcup 2022</div>
+            <!-- <div class="mt-2 ml-2">Euro 2024</div> -->
           </v-layout>
         </router-link>
       </v-toolbar-title>

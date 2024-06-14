@@ -1,6 +1,6 @@
 <template>
   <v-card class="mx-auto mt-0 mt-md-5" max-width="1100">
-    <v-img :src="banner" max-height="250" contain></v-img>
+    <v-img :src="banner" max-height="400" contain></v-img>
     <v-layout>
       <div class="mt-5 ml-4">
         <v-avatar size="50">
