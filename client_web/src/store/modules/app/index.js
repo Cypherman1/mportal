@@ -40,6 +40,10 @@ export default {
         name: 'Italy',
         logo: require('../../../assets/teams/ita.png')
       },
+      cro: {
+        name: 'Croatia',
+        logo: require('../../../assets/teams/cro.png')
+      },
       den: {
         name: 'Denmark',
         logo: require('../../../assets/teams/den.png')
@@ -109,8 +113,8 @@ export default {
     tab: 3,
     dialog: false,
     currentMatch: {
-      home: 'qat',
-      away: 'ecu'
+      home: 'ger',
+      away: 'sco'
     },
     snack: {
       visible: false,
