@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.803a3fbd.css"
   },
   {
-    "revision": "2d7259d776d6a1b8ce47",
+    "revision": "22ccb90bd8661db27b03",
     "url": "/css/app.41edb619.css"
   },
   {
@@ -104,7 +104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/newlogo_onDark.21a3585b.png"
   },
   {
-    "revision": "31cc8de3857fe2f0d8274c5d8eb07243",
+    "revision": "c92f69f49770dfe8a0fed67f6a4b527a",
     "url": "/index.html"
   },
   {
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.29360bd6.js"
   },
   {
-    "revision": "2d7259d776d6a1b8ce47",
-    "url": "/js/app.49e56035.js"
+    "revision": "22ccb90bd8661db27b03",
+    "url": "/js/app.3f550c5f.js"
   },
   {
     "revision": "49e81b938c62fb1c9ff2",

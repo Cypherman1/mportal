@@ -142,7 +142,7 @@ export default {
   },
 
   getCurrentDate({ commit }, payload) {
-    const startdate = new Date('2022-11-16')
+    const startdate = new Date('2024-06-14')
     const currentDate = firebase.firestore.Timestamp.now().toDate()
 
     const diffTime = Math.abs(currentDate - startdate)
